@@ -1,3 +1,8 @@
+Create DB with Name : "github"
+
+Download the repository and run the command - http://localhost/web/app_dev.php
+
+
 Symfony Standard Edition
 ========================
 
